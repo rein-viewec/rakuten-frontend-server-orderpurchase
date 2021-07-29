@@ -4,7 +4,7 @@
             "newOrderItemsQuantity": 8,
             "newOrdersQuantity": 3,
             "unfinishedOrderItemsQuantity": 34,
-            "unfinishedOrdersQuantity": 12,
+            "unfinishedOrdersQuantity": 12
         },
         "newOrderItems": [
             {
@@ -57,7 +57,7 @@
                     "orderNumber": "379923-20210709-00092843",
                     "orderDatetime": "2021-07-09T01:10:30+0900",
                     "totalPrice": 16188,
-                    "requestPrice": 15710,
+                    "requestPrice": 15710
                 },
                 "ordererDetail": {
                     "zipCode1": "222",
@@ -96,7 +96,7 @@
             "newOrderItemsQuantity": 8,
             "newOrdersQuantity": 3,
             "unfinishedOrderItemsQuantity": 34,
-            "unfinishedOrdersQuantity": 12,
+            "unfinishedOrdersQuantity": 12
         },
         "unfinishedOrderItems": [
             {
@@ -149,7 +149,7 @@
                         "orderNumber": "379923-20210709-00092843",
                         "orderDatetime": "2021-07-09T01:10:30+0900",
                         "totalPrice": 16188,
-                        "requestPrice": 15710,
+                        "requestPrice": 15710
                     },
                     "ordererDetail": {
                         "zipCode1": "222",
@@ -179,7 +179,7 @@
                         "cardYm": "2025-11",
                         "cardPayType": 0,
                         "cardInstallmentDesc": null
-                    },
+                    }
                 }
             ],
             "PaginationResponseModel": {
