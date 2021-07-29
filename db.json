@@ -1,77 +1,193 @@
 {
-    "buyouts": [
-        {
-            "id": 1,
-            "sku_jp": "ao7kopky5",
-            "name": "【台湾直送】　手袋 ミトン 防寒 あったか カイロ入れ 網目ポケット メッシュ生地ポケット ボア 幼稚園 保育園 小学生 小学校 子供用 キッズ　オレンジ(色付き水玉)M",
-            "latest_from": "2021-04-12",
-            "latest_to": "2021-09-12",
-            "records": [
-                {
-                    "from": "2021-01-01",
-                    "to": "2021-01-31"
-                },
-                {
-                    "from": "2021-02-01",
-                    "to": "2021-02-28"
-                },
-                {
-                    "from": "2021-03-01",
-                    "to": "2021-03-31"
-                },
-                {
-                    "from": "2021-04-12",
-                    "to": "2021-09-12"
-                }
-            ]
+    "new": {
+        "quantityCount": {
+            "newOrderItemsQuantity": 8,
+            "newOrdersQuantity": 3,
+            "unfinishedOrderItemsQuantity": 34,
+            "unfinishedOrdersQuantity": 12,
         },
-        {
-            "id": 2,
-            "sku_jp": "ao7kopky5",
-            "name": "【台湾直送】　ボア　マフラー　フェイクファー　立体網ポケット　保温性抜群　ふかふか　もこもこ　首元あったかい　ポケット付き　カイロ入れ　女性用　メンズ　ファッション　デコレーション　カジュアルボア　ピンク大人",
-            "latest_from": "2021-04-01",
-            "latest_to": null,
-            "records": [
-                {
-                    "from": "2021-01-01",
-                    "to": "2021-01-31"
+        "newOrderItems": [
+            {
+                "mappingUnit": {
+                    "sku_jp": "sku-jp-ate56",
+                    "sku_tw": "sku-tw-ate56",
+                    "mappingUnit_jp": 4.0,
+                    "mappingUnit_tw": 1.0,
+                    "demandTotal": 73,
+                    "demandNew": 12,
+                    "jpShopItem": {
+                        "shopid": 29,
+                        "itemName": "【台湾直送】CabinZero キャビンゼロ 28Lリュックサック バックパック 旅行用 通勤 大容量 男女兼用 グレー",
+                        "base_sku": "",
+                        "sku_jp": "sku-jp-ate56",
+                        "unitPrice": 3000,
+                        "deliverFrom": 2,
+                        "baseRate": 1.5,
+                        "exchangeRate": 3.8,
+                        "itemid": 57,
+                        "created_datetime": "2021-07-16T06:01:42.281376",
+                        "updated_datetime": "2021-07-16T06:01:42.281500"
+                    },
+                    "twShopItem": {
+                        "shopid": 29,
+                        "itemName": "【NICE】Cabeau 酷涼記憶棉頸枕2.0 - 霧黑 ",
+                        "base_sku": "",
+                        "sku_tw": "sku-tw-ate56",
+                        "unitPrice": 7000,
+                        "barCode": "3245233632",
+                        "itemid": 64,
+                        "created_datetime": "2021-07-16T06:01:41.542555",
+                        "updated_datetime": "2021-07-16T06:01:41.542747"
+                    },
+                    "created_datetime": "2021-07-16T06:01:42.288087",
+                    "updated_datetime": "2021-07-16T06:01:42.288216"
                 },
-                {
-                    "from": "2021-03-01",
-                    "to": "2021-03-31"
-                },
-                {
-                    "from": "2021-04-01",
-                    "to": null
+                "shop": {
+                    "name": "台灣一杯青",
+                    "name_zh": null,
+                    "shop_url_tw": "http://testurl.tw",
+                    "shop_url_jp": "http://testurl.tw",
+                    "shopid": 29
                 }
-            ]
+            }
+        ],
+        "newOrders": [
+            {
+                "orderDetail": {
+                    "orderNumber": "379923-20210709-00092843",
+                    "orderDatetime": "2021-07-09T01:10:30+0900",
+                    "totalPrice": 16188,
+                    "requestPrice": 15710,
+                },
+                "ordererDetail": {
+                    "zipCode1": "222",
+                    "zipCode2": "0001",
+                    "prefecture": "神奈川県",
+                    "city": "横浜市港北区",
+                    "subAddress": "樽町2-7-28 アールブラン綱島305",
+                    "familyName": "佐々木",
+                    "firstName": "唯",
+                    "familyNameKana": "ササキ",
+                    "firstNameKana": "ユイ",
+                    "phoneNumber1": "090",
+                    "phoneNumber2": "5562",
+                    "phoneNumber3": "3736",
+                    "emailAddress": "e9e50b9fbe6fc004db4f6d7d15808f09s1@pc.fw.rakuten.ne.jp",
+                    "sex": "女",
+                    "birthYear": 1987,
+                    "birthMonth": 1,
+                    "birthDay": 26
+                },
+                "payMentDetail": {
+                    "settlementMethod": "クレジットカード",
+                    "rpaySettlementFlag": 1,
+                    "cardName": "VISA",
+                    "cardNumber": "XXXX-XXXX-XXXX-5673",
+                    "cardOwner": "YUI SASAKI",
+                    "cardYm": "2025-11",
+                    "cardPayType": 0,
+                    "cardInstallmentDesc": null
+                },
+            }
+        ],
+    },
+    "unfinished": {
+        "quantityCount": {
+            "newOrderItemsQuantity": 8,
+            "newOrdersQuantity": 3,
+            "unfinishedOrderItemsQuantity": 34,
+            "unfinishedOrdersQuantity": 12,
         },
-        {
-            "id": 3,
-            "sku_jp": "ao7kopky5",
-            "name": "【台湾直送】バケットハット　帽子　ハット　防寒　耳当て　秋冬　カジュアル　カイロ入れ　網目ポケット　メッシュ生地ポケット　コーデ　暖かい　アウトドア　ファッション　レディース　メンズ　ダークグレイL",
-            "latest_from": "2021-02-11",
-            "latest_to": "2021-02-19",
-            "records": [
-                {
-                    "from": "2021-02-11",
-                    "to": "2021-02-19"
+        "unfinishedOrderItems": [
+            {
+                "mappingUnit": {
+                    "sku_jp": "sku-jp-ate56",
+                    "sku_tw": "sku-tw-ate56",
+                    "mappingUnit_jp": 4.0,
+                    "mappingUnit_tw": 1.0,
+                    "demandTotal": 73,
+                    "jpShopItem": {
+                        "shopid": 29,
+                        "itemName": "【台湾直送】CabinZero キャビンゼロ 28Lリュックサック バックパック 旅行用 通勤 大容量 男女兼用 グレー",
+                        "base_sku": "",
+                        "sku_jp": "sku-jp-ate56",
+                        "unitPrice": 3000,
+                        "deliverFrom": 2,
+                        "baseRate": 1.5,
+                        "exchangeRate": 3.8,
+                        "itemid": 57,
+                        "created_datetime": "2021-07-16T06:01:42.281376",
+                        "updated_datetime": "2021-07-16T06:01:42.281500"
+                    },
+                    "twShopItem": {
+                        "shopid": 29,
+                        "itemName": "【NICE】Cabeau 酷涼記憶棉頸枕2.0 - 霧黑 ",
+                        "base_sku": "",
+                        "sku_tw": "sku-tw-ate56",
+                        "unitPrice": 7000,
+                        "barCode": "3245233632",
+                        "itemid": 64,
+                        "created_datetime": "2021-07-16T06:01:41.542555",
+                        "updated_datetime": "2021-07-16T06:01:41.542747"
+                    },
+                    "created_datetime": "2021-07-16T06:01:42.288087",
+                    "updated_datetime": "2021-07-16T06:01:42.288216"
+                },
+                "shop": {
+                    "name": "台灣一杯青",
+                    "name_zh": null,
+                    "shop_url_tw": "http://testurl.tw",
+                    "shop_url_jp": "http://testurl.tw",
+                    "shopid": 29
                 }
-            ]
+            },
+        ],
+        "unfinishedOrders": {
+            "orders": [
+                {
+                    "orderDetail": {
+                        "orderNumber": "379923-20210709-00092843",
+                        "orderDatetime": "2021-07-09T01:10:30+0900",
+                        "totalPrice": 16188,
+                        "requestPrice": 15710,
+                    },
+                    "ordererDetail": {
+                        "zipCode1": "222",
+                        "zipCode2": "0001",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市港北区",
+                        "subAddress": "樽町2-7-28 アールブラン綱島305",
+                        "familyName": "佐々木",
+                        "firstName": "唯",
+                        "familyNameKana": "ササキ",
+                        "firstNameKana": "ユイ",
+                        "phoneNumber1": "090",
+                        "phoneNumber2": "5562",
+                        "phoneNumber3": "3736",
+                        "emailAddress": "e9e50b9fbe6fc004db4f6d7d15808f09s1@pc.fw.rakuten.ne.jp",
+                        "sex": "女",
+                        "birthYear": 1987,
+                        "birthMonth": 1,
+                        "birthDay": 26
+                    },
+                    "payMentDetail": {
+                        "settlementMethod": "クレジットカード",
+                        "rpaySettlementFlag": 1,
+                        "cardName": "VISA",
+                        "cardNumber": "XXXX-XXXX-XXXX-5673",
+                        "cardOwner": "YUI SASAKI",
+                        "cardYm": "2025-11",
+                        "cardPayType": 0,
+                        "cardInstallmentDesc": null
+                    },
+                }
+            ],
+            "PaginationResponseModel": {
+                "responseRecordsAmount": 0,
+                "responsePage": 1,
+                "recordPerPage": 50,
+                "totalPages": 1
+            }
         }
-    ],
-    "autocompletes": [
-        {
-            "sku_jp": "laoma-noodle-21",
-            "name": "大甲台湾まぜめん ごまダレ/ピリ辛/マーラー/台湾ねぎ/オリジナル/沙茶 全六種 袋麺 ノンフライ インスタント麺 麻辣 麻醤 油葱 フライドエシャロット 厳選素材（4袋×4パック/全16袋)【台湾直送】"
-        },
-        {
-            "sku_jp": "food-oktea-p01",
-            "name": "タピオカミルクティー 3パック インスタント ドリンク　タピオカ　飲み物　シュガーレス ランキング入り【台湾直送】"
-        },
-        {
-            "sku_jp": "food-cupofqing-10",
-            "name": "【一杯青】珠露金萱(阿里山烏龍茶)150g 台湾茶 お茶 ウーロン茶【cupofqing】【台湾直送】"
-        }
-    ]
+    }
 }
