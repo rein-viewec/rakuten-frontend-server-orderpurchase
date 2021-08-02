@@ -144,7 +144,7 @@
         "unfinishedOrders": {
             "orders": [
                 {
-                    "orderId": 1,
+                    "id": 1,
                     "orderDetail": {
                         "orderNumber": "279923-20210709-46992476",
                         "orderDatetime": "2021-08-01T01:10:30+0900",
@@ -184,7 +184,7 @@
                 }
             ],
             "PaginationResponseModel": {
-                "responseRecordsAmount": 0,
+                "responseRecordsAmount": 1,
                 "responsePage": 1,
                 "recordPerPage": 50,
                 "totalPages": 1
