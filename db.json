@@ -171,7 +171,7 @@
                         "birthMonth": null,
                         "birthDay": null
                     },
-                    "payMentDetail": {
+                    "paymentDetail": {
                         "settlementMethod": "クレジットカード",
                         "rpaySettlementFlag": 1,
                         "cardName": "MASTER",
