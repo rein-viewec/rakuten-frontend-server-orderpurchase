@@ -53,6 +53,8 @@
         ],
         "newOrders": [
             {
+                "order_id": 12,
+                "unitDemand": 4,
                 "orderDetail": {
                     "orderNumber": "379923-20210709-00092843",
                     "orderDatetime": "2021-07-09T01:10:30+0900",
@@ -146,7 +148,7 @@
         "unfinishedOrders": {
             "orders": [
                 {
-                    "order_id": 1,
+                    "order_id": 12,
                     "unitDemand": 4,
                     "orderDetail": {
                         "orderNumber": "279923-20210709-46992476",
